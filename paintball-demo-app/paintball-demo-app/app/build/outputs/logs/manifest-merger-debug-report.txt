@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c34fed2404052a726fb54191e7834e29\jetified-core-ktx-1.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\2504df3743b695dba8f8f673d83d5c9f\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\60f445900515fbd617cf4852baf93647\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\284a2a218f7f6f43d29c2ab8e18ab1ed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c7209da5feb5a9a2920e4bd83635d413\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\3dce17d3c19f05fd4dbd8599c51b18b2\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [mbanje.kurt:fabbutton:1.2.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\54cdb7604ebb0929f0b94ad4d022e601\jetified-fabbutton-1.2.1\AndroidManifest.xml:25:1-36:12
+MERGED from [no.nordicsemi.android:ble:2.2.4] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c7e340448e02a3f8578ce52449646e4b\jetified-ble-2.2.4\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\076f786bd3356cd31c2c25a4e6eb8238\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c8059d760c519082e9e1ba7696fe7cb2\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\9946d3e5b71c1d22b6ed0234058606a4\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\02970b4ed63a7e4c8fac246850101806\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\0547f6cc4189adffc9734c5d7f7465df\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\60d327c8233c46ffd15d5ca4717cda80\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\34a78877b19be9b2385f74c6884a5c83\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\4758bd8d280125927d04f0616d0e9bd1\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\d89f5ebf8b568de855e5c904c0dd1a36\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\3ec108f2860a9f60bc7864ce9886cfe9\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\5a72348c5931a3728e1fbff4c1fc8fcc\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\16f03aec782cd43772f8a9d2e1ba3aac\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\9e0bc914ab68d073ea7fa6d73f6db120\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\583b7a6edff6cfc65433865e6ae1ef1e\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\5ce33a2b59e728956b1c5e11f2fa2a8c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\02798deba80efca9ba86f44198fca25b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\05523579f0a67aa331a02def998c1e30\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\7fd215c27609b5ee5564ac876b27f977\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\d2787d4b71a473c2e246b08e233993a0\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\34d48c4308e9a53c56122ca2ce28a1f9\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\3b0b05070bc9286d52a6b3c810b8c821\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\aab15b69fca1ffde3f55c4793eabe4f8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\7d01e9386d69a672da8ac3ffe9c7d5f1\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\1872025495ba5bf9b3d73aa946ed8fab\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:10:5-68
+MERGED from [no.nordicsemi.android:ble:2.2.4] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c7e340448e02a3f8578ce52449646e4b\jetified-ble-2.2.4\AndroidManifest.xml:10:5-68
+MERGED from [no.nordicsemi.android:ble:2.2.4] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c7e340448e02a3f8578ce52449646e4b\jetified-ble-2.2.4\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:11:5-74
+MERGED from [no.nordicsemi.android:ble:2.2.4] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c7e340448e02a3f8578ce52449646e4b\jetified-ble-2.2.4\AndroidManifest.xml:11:5-74
+MERGED from [no.nordicsemi.android:ble:2.2.4] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c7e340448e02a3f8578ce52449646e4b\jetified-ble-2.2.4\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:14:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\2504df3743b695dba8f8f673d83d5c9f\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\2504df3743b695dba8f8f673d83d5c9f\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\60f445900515fbd617cf4852baf93647\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\60f445900515fbd617cf4852baf93647\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [mbanje.kurt:fabbutton:1.2.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\54cdb7604ebb0929f0b94ad4d022e601\jetified-fabbutton-1.2.1\AndroidManifest.xml:34:5-20
+MERGED from [mbanje.kurt:fabbutton:1.2.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\54cdb7604ebb0929f0b94ad4d022e601\jetified-fabbutton-1.2.1\AndroidManifest.xml:34:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\583b7a6edff6cfc65433865e6ae1ef1e\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\583b7a6edff6cfc65433865e6ae1ef1e\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\02798deba80efca9ba86f44198fca25b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\02798deba80efca9ba86f44198fca25b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\583b7a6edff6cfc65433865e6ae1ef1e\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:21:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:15:9-45
+activity#demo.app.paintball.activities.DashboardActivity
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:23:9-28:20
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:23:19-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:26:27-74
+activity#demo.app.paintball.activities.JoinGameActivity
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:29:9-65
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:29:19-62
+activity#demo.app.paintball.activities.MapActivity
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:30:9-33:81
+	android:screenOrientation
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:32:13-50
+	android:theme
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:33:13-69
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:31:13-51
+service#org.eclipse.paho.android.service.MqttService
+ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:35:9-80
+	android:name
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml:35:18-77
+uses-sdk
+INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c34fed2404052a726fb54191e7834e29\jetified-core-ktx-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c34fed2404052a726fb54191e7834e29\jetified-core-ktx-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\2504df3743b695dba8f8f673d83d5c9f\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\2504df3743b695dba8f8f673d83d5c9f\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\60f445900515fbd617cf4852baf93647\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\60f445900515fbd617cf4852baf93647\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\284a2a218f7f6f43d29c2ab8e18ab1ed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\284a2a218f7f6f43d29c2ab8e18ab1ed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c7209da5feb5a9a2920e4bd83635d413\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c7209da5feb5a9a2920e4bd83635d413\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\3dce17d3c19f05fd4dbd8599c51b18b2\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\3dce17d3c19f05fd4dbd8599c51b18b2\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [mbanje.kurt:fabbutton:1.2.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\54cdb7604ebb0929f0b94ad4d022e601\jetified-fabbutton-1.2.1\AndroidManifest.xml:30:5-32:41
+MERGED from [mbanje.kurt:fabbutton:1.2.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\54cdb7604ebb0929f0b94ad4d022e601\jetified-fabbutton-1.2.1\AndroidManifest.xml:30:5-32:41
+MERGED from [no.nordicsemi.android:ble:2.2.4] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c7e340448e02a3f8578ce52449646e4b\jetified-ble-2.2.4\AndroidManifest.xml:6:5-8:41
+MERGED from [no.nordicsemi.android:ble:2.2.4] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c7e340448e02a3f8578ce52449646e4b\jetified-ble-2.2.4\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\076f786bd3356cd31c2c25a4e6eb8238\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\076f786bd3356cd31c2c25a4e6eb8238\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c8059d760c519082e9e1ba7696fe7cb2\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\c8059d760c519082e9e1ba7696fe7cb2\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\9946d3e5b71c1d22b6ed0234058606a4\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\9946d3e5b71c1d22b6ed0234058606a4\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\02970b4ed63a7e4c8fac246850101806\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\02970b4ed63a7e4c8fac246850101806\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\0547f6cc4189adffc9734c5d7f7465df\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\0547f6cc4189adffc9734c5d7f7465df\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\60d327c8233c46ffd15d5ca4717cda80\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\60d327c8233c46ffd15d5ca4717cda80\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\34a78877b19be9b2385f74c6884a5c83\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\34a78877b19be9b2385f74c6884a5c83\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\4758bd8d280125927d04f0616d0e9bd1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\4758bd8d280125927d04f0616d0e9bd1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\d89f5ebf8b568de855e5c904c0dd1a36\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\d89f5ebf8b568de855e5c904c0dd1a36\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\3ec108f2860a9f60bc7864ce9886cfe9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\3ec108f2860a9f60bc7864ce9886cfe9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\5a72348c5931a3728e1fbff4c1fc8fcc\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\5a72348c5931a3728e1fbff4c1fc8fcc\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\16f03aec782cd43772f8a9d2e1ba3aac\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\16f03aec782cd43772f8a9d2e1ba3aac\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\9e0bc914ab68d073ea7fa6d73f6db120\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\9e0bc914ab68d073ea7fa6d73f6db120\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\583b7a6edff6cfc65433865e6ae1ef1e\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\583b7a6edff6cfc65433865e6ae1ef1e\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\5ce33a2b59e728956b1c5e11f2fa2a8c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\5ce33a2b59e728956b1c5e11f2fa2a8c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\02798deba80efca9ba86f44198fca25b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\02798deba80efca9ba86f44198fca25b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\05523579f0a67aa331a02def998c1e30\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\05523579f0a67aa331a02def998c1e30\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\7fd215c27609b5ee5564ac876b27f977\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\7fd215c27609b5ee5564ac876b27f977\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\d2787d4b71a473c2e246b08e233993a0\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\d2787d4b71a473c2e246b08e233993a0\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\34d48c4308e9a53c56122ca2ce28a1f9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\34d48c4308e9a53c56122ca2ce28a1f9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\3b0b05070bc9286d52a6b3c810b8c821\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\3b0b05070bc9286d52a6b3c810b8c821\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\aab15b69fca1ffde3f55c4793eabe4f8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\aab15b69fca1ffde3f55c4793eabe4f8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\7d01e9386d69a672da8ac3ffe9c7d5f1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\7d01e9386d69a672da8ac3ffe9c7d5f1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\1872025495ba5bf9b3d73aa946ed8fab\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Máté\.gradle\caches\transforms-2\files-2.1\1872025495ba5bf9b3d73aa946ed8fab\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+		ADDED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\egyetem\MSc\diplomamunka\Bancsics_Mate_diploma_forraskodok\paintball-demo-app\paintball-demo-app\app\src\main\AndroidManifest.xml

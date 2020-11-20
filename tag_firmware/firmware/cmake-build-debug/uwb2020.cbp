@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="uwb2020"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="flash_softdevice">
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 flash_softdevice"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="flash">
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 flash"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uwb2020">
+				<Option output="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/uwb2020" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__HEAP_SIZE=0"/>
+					<Add option="-D__STACK_SIZE=16384"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/config"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/ble"/>
+					<Add directory="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/generic/message"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t2t_lib"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t4t_parser/hl_detection_procedure"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_ancs_c"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_ias_c"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/pwm"/>
+					<Add directory="/home/mate/software/nRF5/components/softdevice/s132/headers/nrf52"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/cdc/acm"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/hid/generic"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/msc"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/hid"/>
+					<Add directory="/home/mate/software/nRF5/modules/nrfx/hal"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/conn_hand_parser/le_oob_rec_parser"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/log"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_gls"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/fstorage"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/text"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/uart"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/fifo"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/mutex"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/gpiote"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/bootloader/ble_dfu"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/common"/>
+					<Add directory="/home/mate/software/nRF5/components/boards"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/generic/record"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t4t_parser/cc_file"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_advertising"/>
+					<Add directory="/home/mate/software/nRF5/external/utf_converter"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_bas_c"/>
+					<Add directory="/home/mate/software/nRF5/modules/nrfx/drivers/include"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/experimental_task_manager"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_hrs_c"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/le_oob_rec"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/queue"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/pwr_mgmt"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_dtm"/>
+					<Add directory="/home/mate/software/nRF5/components/toolchain/cmsis/include"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_rscs_c"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/common"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_lls"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/platform"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/ac_rec"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_bas"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/mpu"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/experimental_section_vars"/>
+					<Add directory="/home/mate/software/nRF5/components/softdevice/s132/headers"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_ans_c"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/slip"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/delay"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/csense_drv"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/memobj"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_nus_c"/>
+					<Add directory="/home/mate/software/nRF5/components/softdevice/common"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_ias"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/hid/mouse"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/low_power_pwm"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/conn_hand_parser/ble_oob_advdata_parser"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_dfu"/>
+					<Add directory="/home/mate/software/nRF5/external/fprintf"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/svc"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/atomic"/>
+					<Add directory="/home/mate/software/nRF5/components"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/scheduler"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/cli"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_hts"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/crc16"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t4t_parser/apdu"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/util"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/cdc"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/csense"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/balloc"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/ecc"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/hardfault"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_cscs"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/hci"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/timer"/>
+					<Add directory="/home/mate/software/nRF5/integration/nrfx"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t4t_parser/tlv"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/sortlist"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/spi_mngr"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/led_softblink"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/conn_hand_parser"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/sdcard"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/parser/record"/>
+					<Add directory="/home/mate/software/nRF5/modules/nrfx/mdk"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_cts_c"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_nus"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/twi_mngr"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_hids"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/strerror"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/crc32"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/ble_oob_advdata"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t2t_parser"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/ble_pair_msg"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/audio"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t4t_lib"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/peer_manager"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/mem_manager"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/ringbuf"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_tps"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/parser/message"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_dis"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/uri"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/nrf_ble_gatt"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/nrf_ble_qwr"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/gfx"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/button"/>
+					<Add directory="/home/mate/software/nRF5/modules/nrfx"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/twi_sensor"/>
+					<Add directory="/home/mate/software/nRF5/integration/nrfx/legacy"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/hid/kbd"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/ep_oob_rec"/>
+					<Add directory="/home/mate/software/nRF5/external/segger_rtt"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/atomic_fifo"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_lbs_c"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/ble_pair_lib"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/crypto"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_racp"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/fds"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/launchapp"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/atomic_flags"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_hrs"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_rscs"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/hs_rec"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/conn_hand_parser/ac_rec_parser"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/stack_guard"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/log/src"/>
+					<Add directory="/home/mate/software/nRF5/components/drivers_ext/lis2dh12"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 uwb2020"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uwb2020/fast">
+				<Option output="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/uwb2020" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__HEAP_SIZE=0"/>
+					<Add option="-D__STACK_SIZE=16384"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/config"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/ble"/>
+					<Add directory="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/generic/message"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t2t_lib"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t4t_parser/hl_detection_procedure"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_ancs_c"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_ias_c"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/pwm"/>
+					<Add directory="/home/mate/software/nRF5/components/softdevice/s132/headers/nrf52"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/cdc/acm"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/hid/generic"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/msc"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/hid"/>
+					<Add directory="/home/mate/software/nRF5/modules/nrfx/hal"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/conn_hand_parser/le_oob_rec_parser"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/log"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_gls"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/fstorage"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/text"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/uart"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/fifo"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/mutex"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/gpiote"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/bootloader/ble_dfu"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/common"/>
+					<Add directory="/home/mate/software/nRF5/components/boards"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/generic/record"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t4t_parser/cc_file"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_advertising"/>
+					<Add directory="/home/mate/software/nRF5/external/utf_converter"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_bas_c"/>
+					<Add directory="/home/mate/software/nRF5/modules/nrfx/drivers/include"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/experimental_task_manager"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_hrs_c"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/le_oob_rec"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/queue"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/pwr_mgmt"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_dtm"/>
+					<Add directory="/home/mate/software/nRF5/components/toolchain/cmsis/include"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_rscs_c"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/common"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_lls"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/platform"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/ac_rec"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_bas"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/mpu"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/experimental_section_vars"/>
+					<Add directory="/home/mate/software/nRF5/components/softdevice/s132/headers"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_ans_c"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/slip"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/delay"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/csense_drv"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/memobj"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_nus_c"/>
+					<Add directory="/home/mate/software/nRF5/components/softdevice/common"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_ias"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/hid/mouse"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/low_power_pwm"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/conn_hand_parser/ble_oob_advdata_parser"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_dfu"/>
+					<Add directory="/home/mate/software/nRF5/external/fprintf"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/svc"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/atomic"/>
+					<Add directory="/home/mate/software/nRF5/components"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/scheduler"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/cli"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_hts"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/crc16"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t4t_parser/apdu"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/util"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/cdc"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/csense"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/balloc"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/ecc"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/hardfault"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_cscs"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/hci"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/timer"/>
+					<Add directory="/home/mate/software/nRF5/integration/nrfx"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t4t_parser/tlv"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/sortlist"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/spi_mngr"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/led_softblink"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/conn_hand_parser"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/sdcard"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/parser/record"/>
+					<Add directory="/home/mate/software/nRF5/modules/nrfx/mdk"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_cts_c"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_nus"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/twi_mngr"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_hids"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/strerror"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/crc32"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/ble_oob_advdata"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t2t_parser"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/ble_pair_msg"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/audio"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/t4t_lib"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/peer_manager"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/mem_manager"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/ringbuf"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_tps"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/parser/message"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_dis"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/uri"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/nrf_ble_gatt"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/nrf_ble_qwr"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/gfx"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/button"/>
+					<Add directory="/home/mate/software/nRF5/modules/nrfx"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/twi_sensor"/>
+					<Add directory="/home/mate/software/nRF5/integration/nrfx/legacy"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd/class/hid/kbd"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/ep_oob_rec"/>
+					<Add directory="/home/mate/software/nRF5/external/segger_rtt"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/atomic_fifo"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_lbs_c"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/ble_pair_lib"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/crypto"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_racp"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/fds"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/launchapp"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/atomic_flags"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_hrs"/>
+					<Add directory="/home/mate/software/nRF5/components/ble/ble_services/ble_rscs"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/connection_handover/hs_rec"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/usbd"/>
+					<Add directory="/home/mate/software/nRF5/components/nfc/ndef/conn_hand_parser/ac_rec_parser"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/stack_guard"/>
+					<Add directory="/home/mate/software/nRF5/components/libraries/log/src"/>
+					<Add directory="/home/mate/software/nRF5/components/drivers_ext/lis2dh12"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 uwb2020/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gdbs">
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 gdbs"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/accel.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/accel.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/address_handler.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/address_handler.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/accel_service.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/accel_service.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/ble_func.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/ble_func.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/ranging_service.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/ranging_service.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/crc.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/crc.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/data_format.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/data_format.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver/deca_device.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver/deca_params_init.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/dwm_utils.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/dwm_utils.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_anchor.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_anchor.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_observer.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_observer.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_tag.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_tag.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/log.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/log.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/main.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ranging.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ranging.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ranging_anchor.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ranging_anchor.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/timing.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/timing.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/uart.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/uart.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/utils.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/utils.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/eml_rand_mt19937ar_stateful.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/eml_rand_mt19937ar_stateful.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/find.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/find.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/isequal.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/isequal.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/kalmanfil_tdoa.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/kalmanfil_tdoa.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/minOrMax.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/minOrMax.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/rand.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/rand.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/rtGetInf.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/rtGetInf.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/rtGetNaN.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/rtGetNaN.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/rt_nonfinite.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/rt_nonfinite.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/str2double.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/str2double.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/string1.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/string1.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/tdoa_as_func_test.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/tdoa_as_func_test.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/tdoa_as_func_test_data.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/tdoa_as_func_test_data.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/tdoa_as_func_test_initialize.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/tdoa_as_func_test_initialize.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/tdoa_as_func_test_terminate.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/uwb-tdoa-mat/uwb-tdoa-mat-master/codegen/lib/tdoa_as_func_test/tdoa_as_func_test_terminate.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/common/ble_advdata.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/common/ble_advdata.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/common/ble_conn_params.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/common/ble_conn_params.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/common/ble_conn_state.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/common/ble_conn_state.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/common/ble_srv_common.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/common/ble_srv_common.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/nrf_ble_gatt/nrf_ble_gatt.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/nrf_ble_gatt/nrf_ble_gatt.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/nrf_ble_qwr/nrf_ble_qwr.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/ble/nrf_ble_qwr/nrf_ble_qwr.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/boards/boards.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/boards/boards.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/drivers_ext/lis2dh12/lis2dh12.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/drivers_ext/lis2dh12/lis2dh12.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/atomic/nrf_atomic.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/atomic/nrf_atomic.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/atomic_fifo/nrf_atfifo.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/atomic_fifo/nrf_atfifo.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/atomic_flags/nrf_atflags.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/atomic_flags/nrf_atflags.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/balloc/nrf_balloc.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/balloc/nrf_balloc.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/button/app_button.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/button/app_button.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/experimental_section_vars/nrf_section_iter.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/experimental_section_vars/nrf_section_iter.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/fifo/app_fifo.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/fifo/app_fifo.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/hardfault/hardfault_implementation.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/hardfault/nrf52/handler/hardfault_handler_gcc.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/log/src/nrf_log_backend_rtt.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/log/src/nrf_log_backend_serial.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/log/src/nrf_log_backend_serial.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/log/src/nrf_log_backend_uart.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/log/src/nrf_log_default_backends.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/log/src/nrf_log_frontend.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/log/src/nrf_log_str_formatter.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/memobj/nrf_memobj.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/memobj/nrf_memobj.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/pwr_mgmt/nrf_pwr_mgmt.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/pwr_mgmt/nrf_pwr_mgmt.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/queue/nrf_queue.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/queue/nrf_queue.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/ringbuf/nrf_ringbuf.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/ringbuf/nrf_ringbuf.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/scheduler/app_scheduler.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/scheduler/app_scheduler.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/sortlist/nrf_sortlist.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/sortlist/nrf_sortlist.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/strerror/nrf_strerror.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/strerror/nrf_strerror.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/timer/app_timer2.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/timer/drv_rtc.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/timer/drv_rtc.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/twi_mngr/nrf_twi_mngr.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/twi_mngr/nrf_twi_mngr.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/twi_sensor/nrf_twi_sensor.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/twi_sensor/nrf_twi_sensor.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/uart/app_uart_fifo.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/util/app_error.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/util/app_error.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/util/app_error_handler_gcc.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/util/app_error_weak.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/util/app_error_weak.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/util/app_util_platform.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/util/app_util_platform.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/util/nrf_assert.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/libraries/util/nrf_assert.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/softdevice/common/nrf_sdh.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/softdevice/common/nrf_sdh.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/softdevice/common/nrf_sdh_ble.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/softdevice/common/nrf_sdh_ble.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/softdevice/common/nrf_sdh_soc.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/components/softdevice/common/nrf_sdh_soc.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/external/fprintf/nrf_fprintf.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/external/fprintf/nrf_fprintf.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/external/fprintf/nrf_fprintf_format.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/external/fprintf/nrf_fprintf_format.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/external/segger_rtt/SEGGER_RTT.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/external/segger_rtt/SEGGER_RTT.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/external/segger_rtt/SEGGER_RTT_Syscalls_GCC.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/external/segger_rtt/SEGGER_RTT_printf.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/external/utf_converter/utf.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/external/utf_converter/utf.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/integration/nrfx/legacy/nrf_drv_clock.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/integration/nrfx/legacy/nrf_drv_clock.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/integration/nrfx/legacy/nrf_drv_spi.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/integration/nrfx/legacy/nrf_drv_spi.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/integration/nrfx/legacy/nrf_drv_twi.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/integration/nrfx/legacy/nrf_drv_twi.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/integration/nrfx/legacy/nrf_drv_uart.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/integration/nrfx/legacy/nrf_drv_uart.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/drivers/src/nrfx_clock.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/drivers/src/nrfx_gpiote.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/drivers/src/nrfx_rtc.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/drivers/src/nrfx_saadc.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/drivers/src/nrfx_spim.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/drivers/src/nrfx_timer.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/drivers/src/nrfx_twi.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/drivers/src/nrfx_uart.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/drivers/src/nrfx_uarte.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/drivers/src/prs/nrfx_prs.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/drivers/src/prs/nrfx_prs.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/mdk/gcc_startup_nrf52.S">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/mdk/system_nrf52.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/mdk/system_nrf52.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/soc/nrfx_atomic.c">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/software/nRF5/modules/nrfx/soc/nrfx_atomic.h">
+			<Option target="uwb2020"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/CMakePaths.cmake">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

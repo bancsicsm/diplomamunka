@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_type_array">
+        <item>TDM</item>
+        <item>TDM</item>
+    </string-array>
+</resources>

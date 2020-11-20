@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: no.nordicsemi.android:ble:2.2.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7e340448e02a3f8578ce52449646e4b/jetified-ble-2.2.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7e340448e02a3f8578ce52449646e4b/jetified-ble-2.2.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7e340448e02a3f8578ce52449646e4b/jetified-ble-2.2.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7e340448e02a3f8578ce52449646e4b/jetified-ble-2.2.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/no.nordicsemi.android/ble/2.2.4/bed0d1f7d619994739f4565fb6b291cf25503558/ble-2.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/no.nordicsemi.android/ble/2.2.4/3a345ef2392ef5ca1044a45f24de854103f3ea19/ble-2.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

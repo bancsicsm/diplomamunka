@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: mbanje.kurt:fabbutton:1.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e278be3e725ec601cb8e20fb4e477671/jetified-fabbutton-1.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e278be3e725ec601cb8e20fb4e477671/jetified-fabbutton-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e278be3e725ec601cb8e20fb4e477671/jetified-fabbutton-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54cdb7604ebb0929f0b94ad4d022e601/jetified-fabbutton-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54cdb7604ebb0929f0b94ad4d022e601/jetified-fabbutton-1.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54cdb7604ebb0929f0b94ad4d022e601/jetified-fabbutton-1.2.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mbanje.kurt/fabbutton/1.2.1/6b4d423de4e65768bf37c66d7a508332ebd6040e/fabbutton-1.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mbanje.kurt/fabbutton/1.2.1/f21616b5e1963919b86775000ccf48c086428e8e/fabbutton-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

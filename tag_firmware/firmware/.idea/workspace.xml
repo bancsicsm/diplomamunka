@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="uwb2020" targetName="gdbs" />
+      <config projectName="uwb2020" targetName="flash" />
+      <config projectName="uwb2020" targetName="uwb2020" />
+      <config projectName="uwb2020" targetName="flash_softdevice" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7442d7f7-3fa1-48f5-9aa6-28728f243da2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="clangTidyViaClangd" value="false" />
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1gGw0UtIUrqXnfhzI08hG3B39Xd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="CMake Application.uwb2020">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="flash" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="uwb2020" TARGET_NAME="flash" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="flash_softdevice" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="uwb2020" TARGET_NAME="flash_softdevice" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gdbs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="uwb2020" TARGET_NAME="gdbs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uwb2020" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="uwb2020" TARGET_NAME="uwb2020" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="uwb2020" RUN_TARGET_NAME="uwb2020">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.flash" />
+      <item itemvalue="CMake Application.flash_softdevice" />
+      <item itemvalue="CMake Application.gdbs" />
+      <item itemvalue="CMake Application.uwb2020" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7442d7f7-3fa1-48f5-9aa6-28728f243da2" name="Default Changelist" comment="" />
+      <created>1597754013683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597754013683</updated>
+      <workItem from="1597754014914" duration="68000" />
+      <workItem from="1597754620319" duration="6101000" />
+      <workItem from="1597773521975" duration="2780000" />
+      <workItem from="1597823273543" duration="3845000" />
+      <workItem from="1597867593764" duration="8843000" />
+      <workItem from="1597998484044" duration="9271000" />
+      <workItem from="1598024013699" duration="2511000" />
+      <workItem from="1598277340262" duration="3195000" />
+      <workItem from="1598280902114" duration="10141000" />
+      <workItem from="1598345495309" duration="24249000" />
+      <workItem from="1598439038585" duration="12719000" />
+      <workItem from="1598459599441" duration="2595000" />
+      <workItem from="1598467250352" duration="2356000" />
+      <workItem from="1598515009529" duration="6243000" />
+      <workItem from="1599139481953" duration="1951000" />
+      <workItem from="1599141707734" duration="374000" />
+      <workItem from="1600186510851" duration="451000" />
+      <workItem from="1600188599401" duration="169000" />
+      <workItem from="1600243458704" duration="4301000" />
+      <workItem from="1600362620233" duration="901000" />
+      <workItem from="1600422728014" duration="2122000" />
+      <workItem from="1601109401271" duration="1109000" />
+      <workItem from="1601990740576" duration="618000" />
+      <workItem from="1601999296701" duration="1212000" />
+      <workItem from="1602184940881" duration="396000" />
+      <workItem from="1602849273145" duration="510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="77" width="424" height="491" key="FileChooserDialogImpl" timestamp="1597755853289">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="507" y="77" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1597755853289" />
+    <state x="302" y="143" width="824" height="515" key="IDE.errors.dialog" timestamp="1598450250270">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="302" y="143" width="824" height="515" key="IDE.errors.dialog/72.27.1294.741@72.27.1294.741" timestamp="1598450250270" />
+    <state x="208" y="32" key="SettingsEditor" timestamp="1597759737434">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="32" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1597759737434" />
+    <state x="363" y="112" width="846" height="522" key="find.popup" timestamp="1602185331568">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="363" y="112" width="846" height="522" key="find.popup/72.27.1294.741@72.27.1294.741" timestamp="1602185331568" />
+    <state x="383" y="174" key="run.anything.popup" timestamp="1598467473354">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="383" y="174" key="run.anything.popup/72.27.1294.741@72.27.1294.741" timestamp="1598467473354" />
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598286726030">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1598286726030" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="testGameTexts">true</bool>
+    <bool name="tagsEnabled">true</bool>
+    <bool name="displayAnchors">true</bool>
+
+    <!-- Ucp | LinkSys: 192.168.0.105 | 192.168.1.100 -->
+    <string name="serverURL">192.168.0.73</string>
+
+    <!-- garden | gyenes -->
+    <string name="map">garden</string>
+
+</resources>

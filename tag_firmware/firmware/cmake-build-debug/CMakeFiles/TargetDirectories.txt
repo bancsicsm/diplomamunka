@@ -1,0 +1,6 @@
+/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/CMakeFiles/flash_softdevice.dir
+/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/CMakeFiles/flash.dir
+/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/CMakeFiles/uwb2020.dir
+/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/CMakeFiles/gdbs.dir

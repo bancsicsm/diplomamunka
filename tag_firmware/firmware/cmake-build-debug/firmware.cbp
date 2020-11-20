@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="firmware"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="firmware">
+				<Option output="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/firmware" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/."/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/ble"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/config"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 firmware"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="firmware/fast">
+				<Option output="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/firmware" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/."/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/ble"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/config"/>
+					<Add directory="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 firmware/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mate/Asztal/matlab/tag_firmware/firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/accel.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/accel.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/address_handler.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/address_handler.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/accel_service.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/accel_service.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/ble_func.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/ble_func.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/ranging_service.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ble/ranging_service.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/config/custom_board.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/config/sdk_config.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/crc.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/crc.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/data_format.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/data_format.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver/deca_device.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver/deca_device_api.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver/deca_param_types.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver/deca_params_init.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver/deca_regs.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver/deca_types.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/decadriver/deca_version.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/dwm_utils.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/dwm_utils.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_anchor.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_anchor.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_observer.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_observer.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_tag.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/impl_tag.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/log.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/log.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/main.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ranging.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ranging.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ranging_anchor.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/ranging_anchor.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/timing.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/timing.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/uart.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/uart.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/utils.c">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/utils.h">
+			<Option target="firmware"/>
+		</Unit>
+		<Unit filename="/home/mate/Asztal/matlab/tag_firmware/firmware/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
